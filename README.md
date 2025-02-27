@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ScriptSorcerer20
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Python (pygame)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, no
-- ⚡ Fun fact: idk
+- 🌱 I’m currently learning Python (pygame)/ Nodejs
+- 📫 How to reach me, call me maybe
+- ⚡ Fun fact: chicken tastes better with sauce.
 - 
 
 <!---
